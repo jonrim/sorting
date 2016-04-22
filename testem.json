@@ -1,3 +1,6 @@
 {
-	"framework": "jasmine2"
+	"framework": "jasmine2",
+	"src_files": [
+    "**/*.js"
+  ]
 }
